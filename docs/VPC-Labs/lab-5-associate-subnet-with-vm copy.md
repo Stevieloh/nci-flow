@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: "Step 5 - Create the Virtuals and associate the VPC Subnets with them"
+title: "Step 5 - Create the Virtual Machines and associate the VPC Subnets with them"
 ---
 
 
