@@ -17,13 +17,13 @@ Overlay subnets are subnets that are associated to the VPC. In this lab, you are
 1.  To create a VPC subnet, navigate to Network & Security – Virtual Private Clouds.
 2.  Choose the VPC you created in the previous step.
 3.  From the VPC navigation bar, choose Subnets.
-    - Click Create Subnet.  The information for the 4 subnets are as per belo
+    - Click Create Subnet.  The information for the 4 subnets are as per below
             
             -   Subnet #1
                 -   Name:   Web-Subnet
                 -   Network IP address/ Prefix:     10.1.1.0/24
                 -   Gateway IP Address:             10.1.1.1
-                -   IP Pool:                        Starting IP address 10.1.1.50 , Ending IP address : 10.1.1.200</li>
+                -   IP Pool:                        Starting IP address 10.1.1.50 , Ending IP address : 10.1.1.200
 
             -   Subnet #2
                 -   Name:   App-Subnet 
