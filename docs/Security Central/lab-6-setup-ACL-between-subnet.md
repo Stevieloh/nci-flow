@@ -32,4 +32,6 @@ import TabsItem from '@theme/TabItem';
 6.  Click on the "Create Button"
 7.  Launch Console into the Web and DB Virtuals to verify that they can't ping each other 
 
+**Repeat the steps for the App and DB Subnets**
+
 
