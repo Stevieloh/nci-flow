@@ -1,6 +1,6 @@
 ---
-sidebar_position: 7
-title: "Step 6 - Setup of Access Control List to restrict communication between the Serve"
+sidebar_position: 6
+title: "Step 5 - Create the Virtuals and associate the VPC Subnets with them"
 ---
 
 
