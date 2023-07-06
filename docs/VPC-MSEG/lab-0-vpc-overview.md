@@ -15,6 +15,8 @@ In the labs so far, we have created the Virtual Private cloud which have allowed
 
 Alternatively, some companies can choose to deploy only Microsegmentation within their environment if they deem that having categories tags assigned to the Virtual machines are a more effective security policy and that adding on the Layer 3 ACL will be more cumbersome and adds on to the overall complexity when troubleshooting arises. 
 
+Nutanix Micro-segmentation works on the basis of Categories values. The same tags can be applied to Virtual Machines of similar functionalities, thus group them in 
+
 An overview of the Network Diagram is as per below:
 
 ![](img/Lab1/vpc_overview.png)
