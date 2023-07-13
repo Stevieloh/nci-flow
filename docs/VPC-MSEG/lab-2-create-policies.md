@@ -88,8 +88,11 @@ For this lab, we are securing the entities for Web Server
     ![](img/mseg_2.png)
 
 An overview of the eventual policy is as per below:
+    ![](img/mseg_3.png)
 
 Click "Next", Select the radio button "Apply" to enforce the policy.
 Click "Confirm", to create the policy
 
 Verify that the policy is created under the "Policy Type: Application" as per the screenshot below
+    ![](img/mseg_4.png)
+
