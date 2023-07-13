@@ -21,25 +21,17 @@ import TabsItem from '@theme/TabItem';
 7.  Select the Checkbox for "Flow Network Security PC", and click on "View Update Plan"
 8.  Click on "Apply 1 Updates"
 
-Once the installation is completed. Proceed to the next step on upgrading Prism Element 
+Once the installation is completed. Verify that the version is 3.0.0.
+Proceed to the next step on upgrading Prism Element 
 
 **Upgrading Prism Element to Flow Network Security 3.0**
 1.  Login to the Prism Element 
 2.  Click on "Home" Drop down list 
 3.  Click on "LCM"
-4.  Click on "Inventory", Click on "Perform Inventory", Click on "Proceed". Once the inventory is updated. Click on Updates
-5.  
+4.  Click on "Inventory", Click on "Perform Inventory", Click on "Proceed". Once the inventory is updated. Click on Updates, go to Software
+5.  Under the software section, ensure that the "Flow Network Security PE" is Version "3.0.0", click on the checkbox on "Flow Network Security PE"
+6.  Click "View Update Plan"
+7.  Click "Proceed" 
 
-
-
-
-**Creating the Categories Values**
-
-1.  Login to the Prism Central 
-2.  Click on Infrastructure in the App Switcher
-3.  Scroll down on the side bar to go to Prism Central Settings
-4.  Click on "Advanced Networking" 
-5.  Click on "Enable" to enable the Advanced Networking Controller 
-
-**Assigning the Categories Value to the Virtual Machiness**
+Once the installation is completed. Verify that the version is 3.0.0.
 
