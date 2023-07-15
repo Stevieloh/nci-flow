@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: "Step 2 - Creating of Subnet for External Connectivity "
+title: "Step 2 - Automate the VLAN Backed Microsegmentation"
 ---
 
 

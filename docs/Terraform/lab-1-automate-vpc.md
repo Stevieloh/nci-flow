@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "Step 1 - Enabling the Advanced Networking Controller"
+title: "Step 1 - Automating the VPC Creation Process"
 ---
 
 
@@ -21,7 +21,6 @@ import TabsItem from '@theme/TabItem';
     - cd VPC and PBR Terraform Scripts
     - vi terraform.tfvars
         -   This file contains the credentials to used for logging into the prism central, and also the VPC external subnet to be used
-        # provider
         prism_user = "admin"
         prism_password = "Password to the Prism Central"
         prism_server = "Prism Server IP address"
