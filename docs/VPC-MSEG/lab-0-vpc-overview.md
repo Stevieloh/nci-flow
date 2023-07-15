@@ -26,6 +26,6 @@ Some key steps to Microsegmentation in a VPC
 
 An overview of the Network Diagram is as per below:
 
-![](img/Lab1/vpc_overview.png)
+![](img/Flow_Network_Security.png)
 
 
