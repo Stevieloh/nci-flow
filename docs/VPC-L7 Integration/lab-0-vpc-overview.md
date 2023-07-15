@@ -20,6 +20,6 @@ In order to provide connectivity to the VMs in a VPC, each VPC requires connecti
 
 An overview of the Network Diagram is as per below:
 
-![](img/vpc_overview.png)
+![](img/Lab1/vpc_overview.png)
 
 
