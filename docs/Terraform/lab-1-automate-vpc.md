@@ -23,10 +23,10 @@ import TabsItem from '@theme/TabItem';
         -   This file contains the credentials to used for logging into the prism central, and also the VPC external subnet to be used
         # provider
         prism_user = "admin"
-        prism_password = "<Password to the Prism Central>"
-        prism_server = "<Prism Server IP address>"
+        prism_password = "Password to the Prism Central"
+        prism_server = "Prism Server IP address"
         prism_port = "9440"
-        external_subnet_name ="<External Subnet Name>"
+        external_subnet_name ="External Subnet Name"
     - Save the file using the "wq!" command on the vi 
 
 8.  Executing the Terraform Scripts
