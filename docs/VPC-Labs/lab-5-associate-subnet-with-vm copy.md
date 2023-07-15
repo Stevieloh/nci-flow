@@ -28,6 +28,9 @@ import TabsItem from '@theme/TabItem';
     Username:   root
     Password:   nutanix/4u
 
+For the Web Server VMs, please run the following script 
+
+
 **Repeat the steps for the App and DB Subnets**
 
 
