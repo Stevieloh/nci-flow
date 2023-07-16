@@ -20,7 +20,7 @@ import TabsItem from '@theme/TabItem';
 
 7.  Login to the PA Firewall using the web console
 8.  Perform the following command to display the MAC address of all the interfaces on the virtual firewall
-    - debug show vm-series interfaces all
+    - debug show vm-series interfaces all (https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/partners/vm-series-firewall-on-nutanix-ahv.pdf)
     - Identify which interface correspond to the MAC address of the Production NIC 
 
 **Assign DHCP Interface settings to the Production interface**

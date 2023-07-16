@@ -32,7 +32,8 @@ import TabsItem from '@theme/TabItem';
 2.  Login to the Palo Alto Firewall
 3.  Click on Monitor, go to Logs-Traffic.
 4.  On the top right corner, there is a dropdown box which indicates the refresh interval of the logs. You can choose to manual refresh or refresh at certain interval
-5.  After the refresh is complete, you can see logs of the PING traffic from the Web VM to the App VM.
+5.  After the refresh is complete, you can see logs of the PING traffic from the Web VM to the App VM. Some sample is as per below screenshot
+
 
 This confirms that the Nutanix VPC is indeed sending traffic to the Palo Alto VM. In a real world scenario, additional rules will be applied to inspect the traffic received by the firewall. This also showcases the use of Policy Based Routing on the Nutanix VPC integration with the Palo Alto.
 
