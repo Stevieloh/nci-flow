@@ -26,10 +26,10 @@ import TabsItem from '@theme/TabItem';
     Password:   nutanix/4u
 
 For the Web Server VMs, please run the following script 
-[document](/VLAN-MSEG/img/cloud-init.yaml)
+[document](/docs/VLAN-MSEG/img/cloud-init.yaml)
 
 For the DB Servers VMs, please run the following scripts
-[document](/VLAN-MSEG/img/cloud-init-db.yaml)
+[document](/docs/VLAN-MSEG/img/cloud-init-db.yaml)
 
 **Repeat the steps for the and DB Subnets**
 
