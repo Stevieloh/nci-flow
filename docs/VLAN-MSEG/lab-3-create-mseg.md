@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: "Step 2 - Creating of Microsegmentation Policies "
 ---
 
