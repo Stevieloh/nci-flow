@@ -38,7 +38,8 @@ To verify that Microsegmentation is enabled, Click on the "Network and Security"
 For the Web Server VMs, please run the following script 
 
 
-**Repeat the steps for the App and DB Subnets**
+
+**Repeat the steps for the and DB Subnets**
 
 
 
@@ -52,7 +53,7 @@ For the Web Server VMs, please run the following script
 5.  Input the following parameters
     - Name : "LAB-FLOW"
     - Purpose : "Lab Purposes"
-    - Values : "Web", "App", "DB"
+    - Values : "Web", "DB"
     - Click on Save
 
 A sample of the output is as per below
