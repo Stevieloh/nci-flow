@@ -33,6 +33,7 @@ import TabsItem from '@theme/TabItem';
     - terraform plan
     - terraform apply
 
-9.  Verify that the VPCs are created in the environment. 
+9.  Verify that the VPCs are created in the environment. For this particular script, it will create 1 VPC with 3 subnets in the environment. Each Subnet will have 1 VM. And between Subnet 1 & 2. They will have an additional policy rule that denies traffic between them. An overview of what is created in this automation script is as per the  
+
 10. To destroy the VPCs that are created using the script, exceute the command
     - terraform destroy
