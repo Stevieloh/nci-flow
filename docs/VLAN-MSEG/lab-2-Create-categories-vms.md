@@ -25,11 +25,11 @@ import TabsItem from '@theme/TabItem';
     Username:   root
     Password:   nutanix/4u
 
-For the Web Server VMs, please run the following script 
-[document](./cloud-init.yaml)
+For the Web Server VMs, please use this yaml scripts to be uploaded upon VM creation
+[Web Server Yaml File](./cloud-init.yaml)
 
-For the DB Servers VMs, please run the following scripts
-[document](./cloud-init-db.yaml)
+For the DB Servers VMs, please use this yaml scripts to be uploaded upon VM creation
+[DB Server YAML File](./cloud-init-db.yaml)
 
 **Repeat the steps for the and DB Subnets**
 

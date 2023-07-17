@@ -1,13 +1,13 @@
 ---
 sidebar_position: 4
-title: "Step 2 - Creating of Microsegmentation Policies "
+title: "Step 3 - Creating of Microsegmentation Policies "
 ---
 
 
 import Tabs from '@theme/TabItem';
 import TabsItem from '@theme/TabItem';
 
-**Lab 2 Creating the VLAN Subnet for External Connectivity (If the Prism Central is shared, only 1 person in group need to perform this)**
+**Creating Microsegmentation Policies**
 
 1.  Under the Infrastructure in the App Switcher
 2.  Scroll down on the side bar to go to "Network & Security"
