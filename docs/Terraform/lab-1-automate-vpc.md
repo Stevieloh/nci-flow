@@ -37,3 +37,7 @@ import TabsItem from '@theme/TabItem';
 
 10. To destroy the VPCs that are created using the script, exceute the command
     - terraform destroy
+
+An overview of the Script and what was deployed is as per the diagram below 
+    ![](img/terraform_vpc.png)
+
