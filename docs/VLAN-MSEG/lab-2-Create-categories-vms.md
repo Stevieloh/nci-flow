@@ -62,7 +62,6 @@ Assign the VMs that were created previously into their respective categories.
     - App Type - LAB-Flow
 
 A sample of the output as per the screenshot below 
-
     ![](img/assigncategories.png)
 
 3.  Click Save.
