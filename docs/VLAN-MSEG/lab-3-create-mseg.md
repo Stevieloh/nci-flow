@@ -39,6 +39,10 @@ import TabsItem from '@theme/TabItem';
     A sample of the output is as per below
             ![](img/inter.png)
 
+    Click Next
+
+10. Click on the Radio button "Enforce". Click Save and Enforce
+
 10. Verification that the Rules are working 
     1.  Ping from your PC to the Web and DB VM is successful
     2.  Ping from the Web to DB VMs are successful
