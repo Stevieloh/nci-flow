@@ -19,6 +19,7 @@ import TabsItem from '@theme/TabItem';
     - Purpose: LAB 
     - Secure this app : Lab-Flow 
     - Policy Hitlogs :  Enabled
+    - TESTING123456
     Click Next 
 
 7.  There is 3 different sections: Inbounds, App Type and Outbounds
