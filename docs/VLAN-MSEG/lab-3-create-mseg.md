@@ -17,9 +17,9 @@ import TabsItem from '@theme/TabItem';
 6.  Input the following parameters
     - Name : "LAB-FLOW"
     - Purpose: LAB 
-    - Secure this app : Lab-Flow 
+    - Secure Entties : Generic Policy
+    - Scope of Secured Entities : VLAN Subnets
     - Policy Hitlogs :  Enabled
-    - TESTING123456
     Click Next 
 
 7.  There is 3 different sections: Inbounds, App Type and Outbounds
@@ -29,17 +29,11 @@ import TabsItem from '@theme/TabItem';
 8.  Rules to be set for in and out of the app
     1.  Allow only outbound communication from the Web Tier to any address (allow all ports)
     2.  Allow only inbound connection from your PC IP address to the Web Tier and DB Tier VMs (allow all ports)
+    3.  Allow all Communications from the Web to DB VMs
 
     A sample of the output is as per below 
-        ![](img/in-out.png)
-
-9.  Rules to be set within the App
-    1.  Disallow Communciation within the same Tier for Web VMs
-    2.  Allow all Communications from the Web to DB VMs
-
-    A sample of the output is as per below
-            ![](img/inter.png)
-
+        ![](img/new.png)
+     
     Click Next
 
 10. Click on the Radio button "Enforce". Click Save and Enforce
