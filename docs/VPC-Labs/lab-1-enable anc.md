@@ -15,4 +15,3 @@ import TabsItem from '@theme/TabItem';
 4.  Click on "Network Controller" 
 5.  Click on checkbox to enable the Advanced Networking Controller 
 
-
