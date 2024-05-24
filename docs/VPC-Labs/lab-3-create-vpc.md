@@ -23,7 +23,7 @@ import TabsItem from '@theme/TabItem';
             SNAT IP / Router IP:    Auto Assigned
             Click "SAVE"
 
-    ![](img/Lab1/create_vpc_1.png)
+    ![](img/create_vpc_1.png)
 
     - External Routable IP address: "Leave it empty"
     - Domain Name Servers:  10.42.194.10
