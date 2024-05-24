@@ -7,4 +7,4 @@ sidebar_position: 1
 Welcome to the Nutanix Flow Networking Bootcamp Guides, please run through the various labs using the clusters that you have been assigned. 
 
 The Cluster used in this lab setup
-- Prism Central 2023.3 with AOS 6.7
+- Prism Central 2024.1 with AOS 6.8
