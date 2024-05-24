@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "Step 1 - Enabling the Advanced Networking Controller"
+title: "Step 1 - Enabling the Network Controller"
 ---
 
 
@@ -12,7 +12,7 @@ import TabsItem from '@theme/TabItem';
 1.  Login to the Prism Central 
 2.  Click on Infrastructure in the App Switcher
 3.  Scroll down on the side bar to go to Prism Central Settings
-4.  Click on "Advanced Networking" 
-5.  Click on "Enable" to enable the Advanced Networking Controller 
+4.  Click on "Network Controller" 
+5.  Click on checkbox to enable the Advanced Networking Controller 
 
 
