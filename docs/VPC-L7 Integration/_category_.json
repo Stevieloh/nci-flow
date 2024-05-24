@@ -1,8 +1,8 @@
 {
-  "label": "3.0 Virtual Private Cloud with Layer 7 Firewall Integration",
+  "label": "2.0 Virtual Private Cloud with Layer 7 Firewall Integration",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "3.0 Nutanix Virtual Private Cloud with Layer 7 Integration"
+    "description": "2.0 Nutanix Virtual Private Cloud with Layer 7 Integration"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "label": "4.0 VLAN Based Microsegmentation",
-  "position": 3,
+  "label": "3.0 VLAN Based Microsegmentation",
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "4.0 VLAN Based Microsegmentation"
+    "description": "3.0 VLAN Based Microsegmentation"
   }
 }
