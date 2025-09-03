@@ -23,7 +23,7 @@ import TabsItem from '@theme/TabItem';
     - Click on the “External Connectivity for VPCs” button to indicate this subnet is used for external connectivity.
     - Click on the "NAT" checkbox. Ensure that the Checkbox have a tick.
     - Refer to the Network IP address and the Gateway Information provided in the Spreadsheet 
-    - IP address Pool: "Please assign an Unused IP Range of 10 IPs"
+    - IP address Pool: "Please assign an Unused IP Range of 5 IPs"
     - Click on the "Create" Button to create the subnet. 
     
     **The external subnet can be shared by 1 or more VPCs in a real world scenario**
