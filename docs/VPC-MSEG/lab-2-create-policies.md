@@ -47,15 +47,24 @@ To verify the VMs are assigned to the categories
     - Policy Name: LAB-FLOW-Policy
     - Purpose: Lab Flow Policies
     - Click on the radio button "Security Entities (Application Policy)
-    - Scope of Secured Entities - Select the radio button "Inside a VPC", select the VPC that was created.
     - Click Next
+    - On the Top right corner, choose the scope of the Policy, this is where you can apply if the policy is a global scope, a VPC, or part of a VLAN. 
+
+    ![](img/mseg_0.png)
+    
 
 For this lab, we are securing the entities for Web Server
 
-1.  Click on the Secured Entity, search for Web. Select the "LAB-FLOW: Web" Category.
+1.  Click on the Secured Entity, select Entity as "VM 
+    - Search for Web. Select the "LAB-FLOW: Web" Category.
 
     - Under the options "Can VMs in this group talk to each other ", select - "Yes"
       - This will alow the VMs in the same category to communicate with each other, in the event where there is no need for the communications to happen for VMs in the same category, then select "No"
+
+    - With the release of 7.3, Nutanix allows specific ports to be used for communications with the VMs in the same categories. For example in the event where its a set of Database server, where they need to send and receive hellos messages to verify the availabilty of the Database Servers. An overview of the screenshot is as per below 
+
+    ![](img/mseg_6.png)
+
 
 2.  Click on the Add Source
 
@@ -94,5 +103,5 @@ Click "Next", Select the radio button "Apply" to enforce the policy.
 Click "Confirm", to create the policy
 
 Verify that the policy is created under the "Policy Type: Application" as per the screenshot below
-    ![](img/mseg_4.png)
+    ![](img/mseg_5.png)
 
