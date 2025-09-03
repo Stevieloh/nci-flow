@@ -50,7 +50,7 @@ To verify the VMs are assigned to the categories
     - Click Next
     - On the Top right corner, choose the scope of the Policy, this is where you can apply if the policy is a global scope, a VPC, or part of a VLAN. 
 
-    ![](img/mseg_0.png)
+    ![](img/mseg_7.png)
     
 
 For this lab, we are securing the entities for Web Server
@@ -103,5 +103,5 @@ Click "Next", Select the radio button "Apply" to enforce the policy.
 Click "Confirm", to create the policy
 
 Verify that the policy is created under the "Policy Type: Application" as per the screenshot below
-    ![](img/mseg_5.png)
+    ![](img/mseg_8.png)
 
