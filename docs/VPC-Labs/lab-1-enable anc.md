@@ -13,6 +13,6 @@ import TabsItem from '@theme/TabItem';
 2.  Click on Infrastructure in the App Switcher
 3.  Scroll down on the side bar to go to Prism Central Settings
 4.  Click on "Network Controller" 
-5.  Click on checkbox to enable Network Controller for VLAN Management as per screenshot below:
+5.  Verify that the Network Controller is already enabled. 
 
     ![](img/anc_enable.png)
