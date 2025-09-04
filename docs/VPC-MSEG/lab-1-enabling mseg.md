@@ -17,4 +17,4 @@ import TabsItem from '@theme/TabItem';
 
 To verify that Microsegmentation is enabled, Click on the "Network and Security" tab, Click on the "Security Policies" and verify that the MSEG policies are created for the VPC that you have created in the previous excercise. The sample screenshot is as per below:
 
-![](img/Flow_Network_Security.png)
+![](img/mseg_9.png)

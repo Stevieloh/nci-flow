@@ -20,8 +20,7 @@ Nutanix Micro-segmentation works on the basis of Categories values. The same tag
 Some key steps to Microsegmentation in a VPC
 1.  Enabling the Advanced Networking 
 2.  Create a VPC in the Virtual Private Cloud (This has been completed in the previous lab, thus will not need to create another VPC again)
-3.  Upgrade the Flow Network Security in the PC and PE to 3.0 in the LCM 
-4.  Enabling Microsegmentation 
+3.  Enabling Microsegmentation 
 
 
 An overview of the Network Diagram is as per below:
